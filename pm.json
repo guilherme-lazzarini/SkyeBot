@@ -1,0 +1,858 @@
+{
+  "PM": [
+    {
+      "ID": "455139144255930368",
+      "Total": 875000
+    },
+    {
+      "ID": "653588216926044170",
+      "Total": 1100000
+    },
+    {
+      "ID": "231890018065580032",
+      "Total": 2150000
+    },
+    {
+      "ID": "784443806937513995",
+      "Total": 2375000
+    },
+    {
+      "ID": "417776307401785345",
+      "Total": 875000
+    },
+    {
+      "ID": "330524705654177794",
+      "Total": 450000
+    },
+    {
+      "ID": "728421349458051154",
+      "Total": 1700000
+    },
+    {
+      "ID": "393224843115626497",
+      "Total": 350000
+    },
+    {
+      "ID": "340509293801373697",
+      "Total": 2725000
+    },
+    {
+      "ID": "719421194436214824",
+      "Total": 150000
+    },
+    {
+      "ID": "272883126454321172",
+      "Total": 225000
+    },
+    {
+      "ID": "517021007408791563",
+      "Total": 225000
+    }
+  ],
+  "Faccao": [
+    {
+      "Fac": "DriftKing",
+      "PotAcoes": 18,
+      "ValorTotal": 750000,
+      "LojaQtd": 0,
+      "CaixaQtd": 1,
+      "BancoQtd": 0,
+      "JoalheriaQtd": 0,
+      "IateQtd": 0
+    },
+    {
+      "Fac": "Camorra",
+      "PotAcoes": 72,
+      "ValorTotal": 1200000,
+      "LojaQtd": 3,
+      "CaixaQtd": 2,
+      "BancoQtd": 0,
+      "JoalheriaQtd": 0,
+      "IateQtd": 0
+    },
+    {
+      "Fac": "Abutres",
+      "PotAcoes": 0,
+      "ValorTotal": 0,
+      "LojaQtd": 0,
+      "CaixaQtd": 0,
+      "BancoQtd": 0,
+      "JoalheriaQtd": 0,
+      "IateQtd": 0
+    },
+    {
+      "Fac": "Vanilla",
+      "PotAcoes": 20,
+      "ValorTotal": 1000000,
+      "LojaQtd": 2,
+      "CaixaQtd": 0,
+      "BancoQtd": 0,
+      "JoalheriaQtd": 0,
+      "IateQtd": 0
+    },
+    {
+      "Fac": "CosaNostra",
+      "PotAcoes": 0,
+      "ValorTotal": 0,
+      "LojaQtd": 0,
+      "CaixaQtd": 0,
+      "BancoQtd": 0,
+      "JoalheriaQtd": 0,
+      "IateQtd": 0
+    },
+    {
+      "Fac": "Ira",
+      "PotAcoes": 42,
+      "ValorTotal": 1550000,
+      "LojaQtd": 3,
+      "CaixaQtd": 1,
+      "BancoQtd": 0,
+      "JoalheriaQtd": 0,
+      "IateQtd": 0
+    },
+    {
+      "Fac": "Ndrangheta",
+      "PotAcoes": 0,
+      "ValorTotal": 0,
+      "LojaQtd": 0,
+      "CaixaQtd": 0,
+      "BancoQtd": 0,
+      "JoalheriaQtd": 0,
+      "IateQtd": 0
+    },
+    {
+      "Fac": "Salamancas",
+      "PotAcoes": 0,
+      "ValorTotal": 0,
+      "LojaQtd": 0,
+      "CaixaQtd": 0,
+      "BancoQtd": 0,
+      "JoalheriaQtd": 0,
+      "IateQtd": 0
+    },
+    {
+      "Fac": "Midnight",
+      "PotAcoes": 104,
+      "ValorTotal": 1200000,
+      "LojaQtd": 6,
+      "CaixaQtd": 1,
+      "BancoQtd": 0,
+      "JoalheriaQtd": 1,
+      "IateQtd": 0
+    },
+    {
+      "Fac": "Verdes",
+      "PotAcoes": 66,
+      "ValorTotal": 2750000,
+      "LojaQtd": 0,
+      "CaixaQtd": 3,
+      "BancoQtd": 0,
+      "JoalheriaQtd": 1,
+      "IateQtd": 0
+    },
+    {
+      "Fac": "Rosas",
+      "PotAcoes": 0,
+      "ValorTotal": 0,
+      "LojaQtd": 0,
+      "CaixaQtd": 0,
+      "BancoQtd": 0,
+      "JoalheriaQtd": 0,
+      "IateQtd": 0
+    }
+  ],
+  "Civil": [
+    {
+      "ID": "370",
+      "Total": 2000000
+    },
+    {
+      "ID": "128",
+      "Total": 800000
+    },
+    {
+      "ID": "309",
+      "Total": 5200000
+    },
+    {
+      "ID": "6033",
+      "Total": 1200000
+    }
+  ],
+  "REGISTROS": [
+    {
+      "Org": "PM",
+      "registros": "428"
+    },
+    {
+      "acao": "174",
+      "vencedor": "Bravillas",
+      "nick": "!        Bressan",
+      "autorid": "530904357890293760",
+      "tipo": "loja",
+      "valor": 1000000,
+      "pont": 15
+    },
+    {
+      "acao": "177",
+      "vencedor": "Bravillas",
+      "nick": "Slayeer",
+      "autorid": "272883126454321172",
+      "tipo": "caixa",
+      "valor": 1000000,
+      "pont": 12
+    },
+    {
+      "acao": "179",
+      "vencedor": "Bravillas",
+      "nick": "Delfalas (Roque)",
+      "autorid": "231890018065580032",
+      "tipo": "caixa",
+      "valor": 1000000,
+      "pont": 12
+    },
+    {
+      "acao": "186",
+      "vencedor": "Bravillas",
+      "nick": "Delfalas (Roque)",
+      "autorid": "231890018065580032",
+      "tipo": "caixa",
+      "valor": 1000000,
+      "pont": 12
+    },
+    {
+      "acao": "192",
+      "vencedor": "Civil",
+      "id": "8825",
+      "nick": "Slayeer",
+      "autorid": "272883126454321172",
+      "valor": 800000
+    },
+    {
+      "acao": "193",
+      "vencedor": "Bravillas",
+      "nick": "Delfalas (Roque)",
+      "autorid": "231890018065580032",
+      "tipo": "caixa",
+      "valor": 1000000,
+      "pont": 12
+    },
+    {
+      "acao": "196",
+      "vencedor": "Bravillas",
+      "nick": "ταทαкα💀",
+      "autorid": "340509293801373697",
+      "tipo": "caixa",
+      "valor": 1000000,
+      "pont": 12
+    },
+    {
+      "acao": "199",
+      "vencedor": "Civil",
+      "id": "5349",
+      "nick": "ταทαкα💀",
+      "autorid": "340509293801373697",
+      "valor": 800000
+    },
+    {
+      "acao": "233",
+      "vencedor": "Darkness",
+      "nick": "Slayeer",
+      "autorid": "272883126454321172",
+      "tipo": "joalheria",
+      "valor": 1200000,
+      "pont": 16
+    },
+    {
+      "acao": "238",
+      "vencedor": "Civil",
+      "id": "370",
+      "nick": "Delfalas (Roque)",
+      "autorid": "231890018065580032",
+      "valor": 2000000
+    },
+    {
+      "acao": "334",
+      "vencedor": "Civil",
+      "id": "128",
+      "nick": "Mintirinha",
+      "autorid": "517021007408791563",
+      "valor": 800000
+    },
+    {
+      "acao": "352",
+      "vencedor": "PM",
+      "nick": "Tapz",
+      "autorid": "455139144255930368",
+      "valor": 200000
+    },
+    {
+      "acao": "353",
+      "vencedor": "PM",
+      "nick": "👻 Lukas Guilherme",
+      "autorid": "653588216926044170",
+      "valor": 200000
+    },
+    {
+      "acao": "354",
+      "vencedor": "PM",
+      "nick": "Delfalas (Roque)",
+      "autorid": "231890018065580032",
+      "valor": 375000
+    },
+    {
+      "acao": "355",
+      "vencedor": "PM",
+      "nick": "Delfalas (Roque)",
+      "autorid": "231890018065580032",
+      "valor": 200000
+    },
+    {
+      "acao": "356",
+      "vencedor": "Civil",
+      "id": "309",
+      "nick": "Delfalas (Roque)",
+      "autorid": "231890018065580032",
+      "valor": 1200000
+    },
+    {
+      "acao": "357",
+      "vencedor": "PM",
+      "nick": "👻 Lukas Guilherme",
+      "autorid": "653588216926044170",
+      "valor": 200000
+    },
+    {
+      "acao": "358",
+      "vencedor": "Civil",
+      "id": "309",
+      "nick": "!Yeezy_",
+      "autorid": "784443806937513995",
+      "valor": 1200000
+    },
+    {
+      "acao": "359",
+      "vencedor": "PM",
+      "nick": "!Yeezy_",
+      "autorid": "784443806937513995",
+      "valor": 350000
+    },
+    {
+      "acao": "360",
+      "vencedor": "Civil",
+      "id": "309",
+      "nick": "!Yeezy_",
+      "autorid": "784443806937513995",
+      "valor": 800000
+    },
+    {
+      "acao": "361",
+      "vencedor": "PM",
+      "nick": "Pedro Seth",
+      "autorid": "417776307401785345",
+      "valor": 200000
+    },
+    {
+      "acao": "362",
+      "vencedor": "PM",
+      "nick": "ᵛᵘˡᵍᵒTzao",
+      "autorid": "330524705654177794",
+      "valor": 150000
+    },
+    {
+      "acao": "363",
+      "vencedor": "DriftKing",
+      "nick": "ᵛᵘˡᵍᵒTzao",
+      "autorid": "330524705654177794",
+      "tipo": "caixa",
+      "valor": 750000,
+      "pont": 18
+    },
+    {
+      "acao": "364",
+      "vencedor": "Verdes",
+      "nick": "ᵛᵘˡᵍᵒTzao",
+      "autorid": "330524705654177794",
+      "tipo": "caixa",
+      "valor": 1000000,
+      "pont": 24
+    },
+    {
+      "acao": "365",
+      "vencedor": "Verdes",
+      "nick": "Delfalas (Roque)",
+      "autorid": "231890018065580032",
+      "tipo": "caixa",
+      "valor": 1000000,
+      "pont": 24
+    },
+    {
+      "acao": "366",
+      "vencedor": "PM",
+      "nick": "Costa",
+      "autorid": "728421349458051154",
+      "valor": 150000
+    },
+    {
+      "acao": "367",
+      "vencedor": "PM",
+      "nick": "Tapz",
+      "autorid": "455139144255930368",
+      "valor": 150000
+    },
+    {
+      "acao": "368",
+      "vencedor": "PM",
+      "nick": "Tapz",
+      "autorid": "455139144255930368",
+      "valor": 375000
+    },
+    {
+      "acao": "369",
+      "vencedor": "PM",
+      "nick": "Pedro Seth",
+      "autorid": "417776307401785345",
+      "valor": 375000
+    },
+    {
+      "acao": "370",
+      "vencedor": "Civil",
+      "id": "309",
+      "nick": "ᵛᵘˡᵍᵒTzao",
+      "autorid": "330524705654177794",
+      "valor": 800000
+    },
+    {
+      "acao": "371",
+      "vencedor": "Civil",
+      "id": "309",
+      "nick": "👻 Lukas Guilherme",
+      "autorid": "653588216926044170",
+      "valor": 1200000
+    },
+    {
+      "acao": "372",
+      "vencedor": "PM",
+      "nick": "👻 Lukas Guilherme",
+      "autorid": "653588216926044170",
+      "valor": 200000
+    },
+    {
+      "acao": "373",
+      "vencedor": "Civil",
+      "id": "6033",
+      "nick": "👻 Lukas Guilherme",
+      "autorid": "653588216926044170",
+      "valor": 1200000
+    },
+    {
+      "acao": "374",
+      "vencedor": "PM",
+      "nick": "!Yeezy_",
+      "autorid": "784443806937513995",
+      "valor": 150000
+    },
+    {
+      "acao": "375",
+      "vencedor": "PM",
+      "nick": "!Yeezy_",
+      "autorid": "784443806937513995",
+      "valor": 150000
+    },
+    {
+      "acao": "376",
+      "vencedor": "Camorra",
+      "nick": "!!mitchell",
+      "autorid": "639415807121686538",
+      "tipo": "loja",
+      "valor": 400000,
+      "pont": 8
+    },
+    {
+      "acao": "377",
+      "vencedor": "PM",
+      "nick": "!Yeezy_",
+      "autorid": "784443806937513995",
+      "valor": 200000
+    },
+    {
+      "acao": "378",
+      "vencedor": "PM",
+      "nick": "!Yeezy_",
+      "autorid": "784443806937513995",
+      "valor": 200000
+    },
+    {
+      "acao": "379",
+      "vencedor": "Camorra",
+      "nick": "!Yeezy_",
+      "autorid": "784443806937513995",
+      "tipo": "loja",
+      "valor": 400000,
+      "pont": 8
+    },
+    {
+      "acao": "380",
+      "vencedor": "Vanilla",
+      "nick": "𝓝єѵ𝖎җѕ",
+      "autorid": "335475565442236418",
+      "tipo": "loja",
+      "valor": 400000,
+      "pont": 8
+    },
+    {
+      "acao": "381",
+      "vencedor": "PM",
+      "nick": "!Yeezy_",
+      "autorid": "784443806937513995",
+      "valor": 150000
+    },
+    {
+      "acao": "382",
+      "vencedor": "PM",
+      "nick": "! madaraᴬᴷᴬ",
+      "autorid": "393224843115626497",
+      "valor": 200000
+    },
+    {
+      "acao": "383",
+      "vencedor": "PM",
+      "nick": "Pedro Seth",
+      "autorid": "417776307401785345",
+      "valor": 150000
+    },
+    {
+      "acao": "384",
+      "vencedor": "PM",
+      "nick": "! madaraᴬᴷᴬ",
+      "autorid": "393224843115626497",
+      "valor": 150000
+    },
+    {
+      "acao": "385",
+      "vencedor": "Verdes",
+      "nick": "!Yeezy_",
+      "autorid": "784443806937513995",
+      "tipo": "caixa",
+      "valor": 750000,
+      "pont": 18
+    },
+    {
+      "acao": "386",
+      "vencedor": "PM",
+      "nick": "Pedro Seth",
+      "autorid": "417776307401785345",
+      "valor": 150000
+    },
+    {
+      "acao": "387",
+      "vencedor": "PM",
+      "nick": "👻 Lukas Guilherme",
+      "autorid": "653588216926044170",
+      "valor": 150000
+    },
+    {
+      "acao": "388",
+      "vencedor": "PM",
+      "nick": "Tapz",
+      "autorid": "455139144255930368",
+      "valor": 150000
+    },
+    {
+      "acao": "389",
+      "vencedor": "Camorra",
+      "nick": "Tapz",
+      "autorid": "455139144255930368",
+      "tipo": "loja",
+      "valor": 400000,
+      "pont": 8
+    },
+    {
+      "acao": "390",
+      "vencedor": "PM",
+      "nick": "!Yeezy_",
+      "autorid": "784443806937513995",
+      "valor": 375000
+    },
+    {
+      "acao": "391",
+      "vencedor": "PM",
+      "nick": "ταทαкα💀",
+      "autorid": "340509293801373697",
+      "valor": 250000
+    },
+    {
+      "acao": "392",
+      "vencedor": "PM",
+      "nick": "ταทαкα💀",
+      "autorid": "340509293801373697",
+      "valor": 1650000
+    },
+    {
+      "acao": "393",
+      "vencedor": "PM",
+      "nick": "ταทαкα💀",
+      "autorid": "340509293801373697",
+      "valor": 375000
+    },
+    {
+      "acao": "394",
+      "vencedor": "PM",
+      "nick": "ταทαкα💀",
+      "autorid": "340509293801373697",
+      "valor": 450000
+    },
+    {
+      "acao": "395",
+      "vencedor": "PM",
+      "nick": "Delfalas (Roque)",
+      "autorid": "231890018065580032",
+      "valor": 250000
+    },
+    {
+      "acao": "396",
+      "vencedor": "Vanilla",
+      "nick": "ταทαкα💀",
+      "autorid": "340509293801373697",
+      "tipo": "loja",
+      "valor": 600000,
+      "pont": 12
+    },
+    {
+      "acao": "397",
+      "vencedor": "PM",
+      "nick": "!Yeezy_",
+      "autorid": "784443806937513995",
+      "valor": 150000
+    },
+    {
+      "acao": "398",
+      "vencedor": "PM",
+      "nick": "!Yeezy_",
+      "autorid": "784443806937513995",
+      "valor": 150000
+    },
+    {
+      "acao": "399",
+      "vencedor": "PM",
+      "nick": "Delfalas (Roque)",
+      "autorid": "231890018065580032",
+      "valor": 225000
+    },
+    {
+      "acao": "400",
+      "vencedor": "PM",
+      "nick": "Delfalas (Roque)",
+      "autorid": "231890018065580032",
+      "valor": 150000
+    },
+    {
+      "acao": "401",
+      "vencedor": "Midnight",
+      "nick": "Delfalas (Roque)",
+      "autorid": "231890018065580032",
+      "tipo": "loja",
+      "valor": 400000,
+      "pont": 8
+    },
+    {
+      "acao": "402",
+      "vencedor": "PM",
+      "nick": "Delfalas (Roque)",
+      "autorid": "231890018065580032",
+      "valor": 225000
+    },
+    {
+      "acao": "403",
+      "vencedor": "PM",
+      "nick": "Delfalas (Roque)",
+      "autorid": "231890018065580032",
+      "valor": 225000
+    },
+    {
+      "acao": "404",
+      "vencedor": "PM",
+      "nick": "Muriel Henrique",
+      "autorid": "719421194436214824",
+      "valor": 150000
+    },
+    {
+      "acao": "405",
+      "vencedor": "PM",
+      "nick": "ᵛᵘˡᵍᵒTzao",
+      "autorid": "330524705654177794",
+      "valor": 150000
+    },
+    {
+      "acao": "406",
+      "vencedor": "PM",
+      "nick": "Castiel ᵈᵒ ʳᵖ ᶦᵐᵉʳˢᶦᵛᵒ",
+      "autorid": "728421349458051154",
+      "valor": 150000
+    },
+    {
+      "acao": "407",
+      "vencedor": "PM",
+      "nick": "Castiel ᵈᵒ ʳᵖ ᶦᵐᵉʳˢᶦᵛᵒ",
+      "autorid": "728421349458051154",
+      "valor": 200000
+    },
+    {
+      "acao": "408",
+      "vencedor": "PM",
+      "nick": "Castiel ᵈᵒ ʳᵖ ᶦᵐᵉʳˢᶦᵛᵒ",
+      "autorid": "728421349458051154",
+      "valor": 150000
+    },
+    {
+      "acao": "409",
+      "vencedor": "PM",
+      "nick": "Castiel ᵈᵒ ʳᵖ ᶦᵐᵉʳˢᶦᵛᵒ",
+      "autorid": "728421349458051154",
+      "valor": 150000
+    },
+    {
+      "acao": "410",
+      "vencedor": "PM",
+      "nick": "Castiel ᵈᵒ ʳᵖ ᶦᵐᵉʳˢᶦᵛᵒ",
+      "autorid": "728421349458051154",
+      "valor": 150000
+    },
+    {
+      "acao": "411",
+      "vencedor": "PM",
+      "nick": "Castiel ᵈᵒ ʳᵖ ᶦᵐᵉʳˢᶦᵛᵒ",
+      "autorid": "728421349458051154",
+      "valor": 150000
+    },
+    {
+      "acao": "412",
+      "vencedor": "Ira",
+      "nick": "Castiel ᵈᵒ ʳᵖ ᶦᵐᵉʳˢᶦᵛᵒ",
+      "autorid": "728421349458051154",
+      "tipo": "loja",
+      "valor": 400000,
+      "pont": 8
+    },
+    {
+      "acao": "413",
+      "vencedor": "Midnight",
+      "nick": "Castiel ᵈᵒ ʳᵖ ᶦᵐᵉʳˢᶦᵛᵒ",
+      "autorid": "728421349458051154",
+      "tipo": "loja",
+      "valor": 400000,
+      "pont": 8
+    },
+    {
+      "acao": "414",
+      "vencedor": "PM",
+      "nick": "!Yeezy_",
+      "autorid": "784443806937513995",
+      "valor": 150000
+    },
+    {
+      "acao": "415",
+      "vencedor": "Ira",
+      "nick": "!Yeezy_",
+      "autorid": "784443806937513995",
+      "tipo": "loja",
+      "valor": 400000,
+      "pont": 8
+    },
+    {
+      "acao": "416",
+      "vencedor": "PM",
+      "nick": "!Yeezy_",
+      "autorid": "784443806937513995",
+      "valor": 150000
+    },
+    {
+      "acao": "417",
+      "vencedor": "PM",
+      "nick": "ᵛᵘˡᵍᵒTzao",
+      "autorid": "330524705654177794",
+      "valor": 150000
+    },
+    {
+      "acao": "418",
+      "vencedor": "PM",
+      "nick": "Delfalas (Roque)",
+      "autorid": "231890018065580032",
+      "valor": 500000
+    },
+    {
+      "acao": "419",
+      "vencedor": "PM",
+      "nick": "Slayeer",
+      "autorid": "272883126454321172",
+      "valor": 225000
+    },
+    {
+      "acao": "420",
+      "vencedor": "PM",
+      "nick": "!Yeezy_",
+      "autorid": "784443806937513995",
+      "valor": 200000
+    },
+    {
+      "acao": "421",
+      "vencedor": "PM",
+      "nick": "Castiel ᵈᵒ ʳᵖ ᶦᵐᵉʳˢᶦᵛᵒ",
+      "autorid": "728421349458051154",
+      "valor": 300000
+    },
+    {
+      "acao": "422",
+      "vencedor": "PM",
+      "nick": "Castiel ᵈᵒ ʳᵖ ᶦᵐᵉʳˢᶦᵛᵒ",
+      "autorid": "728421349458051154",
+      "valor": 150000
+    },
+    {
+      "acao": "423",
+      "vencedor": "Ira",
+      "nick": "Castiel ᵈᵒ ʳᵖ ᶦᵐᵉʳˢᶦᵛᵒ",
+      "autorid": "728421349458051154",
+      "tipo": "caixa",
+      "valor": 750000,
+      "pont": 18
+    },
+    {
+      "acao": "424",
+      "vencedor": "PM",
+      "nick": "Castiel ᵈᵒ ʳᵖ ᶦᵐᵉʳˢᶦᵛᵒ",
+      "autorid": "728421349458051154",
+      "valor": 150000
+    },
+    {
+      "acao": "425",
+      "vencedor": "PM",
+      "nick": "Mintirinha",
+      "autorid": "517021007408791563",
+      "valor": 225000
+    },
+    {
+      "acao": "426",
+      "vencedor": "Midnight",
+      "nick": "ταทαкα💀",
+      "autorid": "340509293801373697",
+      "tipo": "loja",
+      "valor": 400000,
+      "pont": 8
+    },
+    {
+      "acao": "427",
+      "vencedor": "PM",
+      "nick": "👻 Lukas Guilherme",
+      "autorid": "653588216926044170",
+      "valor": 150000
+    },
+    {
+      "acao": "428",
+      "vencedor": "PM",
+      "nick": "👻 Lukas Guilherme",
+      "autorid": "653588216926044170",
+      "valor": 200000
+    }
+  ]
+}
